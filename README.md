@@ -1,4 +1,4 @@
-# Elements of Data Science (Fall 2024) – Learning-in-Progress
+# Data Science – Learning-in-Progress
 
 Welcome! This repository documents an ongoing learning journey through Elements of Data Science. The work is active and evolving over time. Collaboration from the Columbia University Data Science community is welcome—issues, ideas, and pull requests are appreciated.
 
@@ -89,5 +89,5 @@ Please keep changes modular and include short explanations in PR descriptions.
 ---
 
 ## Acknowledgements
-- Course inspiration: Elements of Data Science (F2024)
-- References: Python Data Science Handbook (PDSH), Python Machine Learning (PML), Data Science From Scratch (DSFS)
+- Course inspiration: Elements of Data Science from professor Andi Cupallari
+- References: Python Data Science Handbook, Python Machine Learning, Data Science From Scratch
